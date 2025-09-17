@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 
+# All dependencies for the rails project.
+# Comments stay here for my better understanding
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 8.0.2", ">= 8.0.2.1"
 # The modern asset pipeline for Rails [https://github.com/rails/propshaft]
